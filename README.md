@@ -26,3 +26,8 @@
 
 ![image](https://github.com/Josephine-M-Li/online-pay/assets/77156174/ede468e0-77a7-43aa-b3aa-6adf5de9e21d)
 
+
+Skills: 
+1. ASP.NET MVC
+2. Vue3
+3. .Net 6

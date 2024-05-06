@@ -21,3 +21,8 @@
   ⑥若交易成功，出貨
   
 
+
+***
+
+![image](https://github.com/Josephine-M-Li/online-pay/assets/77156174/ede468e0-77a7-43aa-b3aa-6adf5de9e21d)
+
